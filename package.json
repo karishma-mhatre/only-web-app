@@ -1,0 +1,25 @@
+{
+  "name": "only-web-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "only-web-app",
+  "author": "Karishma Mhatre",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "gatsby": "^5.13.1",
+    "gatsby-plugin-sass": "^6.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.69.7"
+  }
+}
